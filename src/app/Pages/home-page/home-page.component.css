@@ -1,0 +1,42 @@
+/* src/app/home/home.component.css */
+.homepage {
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+.hero {
+    text-align: center;
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    color: white;
+    padding: 50px;
+}
+
+.hero h1 {
+    font-size: 3em;
+}
+
+.hero button {
+    background-color: #f39c12;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.2em;
+    cursor: pointer;
+    color: white;
+}
+
+.features {
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
+
+.feature-card {
+    text-align: center;
+    padding: 15px;
+}
+
+.feature-card img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}

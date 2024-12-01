@@ -1,0 +1,27 @@
+/* src/app/about/about.component.css */
+.about {
+    font-family: Arial, sans-serif;
+}
+
+.about-hero {
+    text-align: center;
+    background: linear-gradient(to right, #8e44ad, #3498db);
+    color: white;
+    padding: 50px;
+}
+
+.about-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 30px;
+}
+
+.about-content img {
+    width: 300px;
+    border-radius: 15px;
+}
+
+.text-content {
+    max-width: 500px;
+}
