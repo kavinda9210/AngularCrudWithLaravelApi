@@ -28,4 +28,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Get the laravel-rest-api from here
 
-https://github.com/razorisuru/laravel-rest-api
